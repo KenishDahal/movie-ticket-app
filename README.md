@@ -5,3 +5,8 @@ U can register user and then login to get authenticated.
 Movie are listed in homepage where user had uploaded content.
 Only user can have CRUD functionality.
 People can book movies.
+
+● Backend: Node.js
+● Frontend: React
+● Database: MongoDB
+● Version Control: Git
